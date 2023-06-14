@@ -15,6 +15,11 @@ Our sales deck showcases the potential of multi-modal AI and how Transcend can h
 
 [Transcend Deck](transcend-sales-compressed.pdf)
 
+
+## Contact:
+
+Contact `kye@apac.ai` for further questions or inquiries
+
 ## Solutions We Provide
 Transcend offers a wide range of multi-modal AI solutions, including:
 
