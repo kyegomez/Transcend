@@ -19,7 +19,7 @@ With our real-time figma link you can drop comments, feedback, and sort of quest
 
 ## Download the pdf
 
-[Transcend Deck](transcend-sales-compressed.pdf)
+[Transcend Deck](transcend-compressed_1.pdf)
 
 
 ## Contact:
