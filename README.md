@@ -11,6 +11,12 @@ Transcend is dedicated to empowering businesses with personalized multi-modal AI
 
 Our sales deck showcases the potential of multi-modal AI and how Transcend can help businesses unlock new dimensions of success.
 
+## Figma link, active experience
+With our real-time figma link you can drop comments, feedback, and sort of questions you may have!
+
+[Transcend experience](https://www.figma.com/file/4JwJW9PkEbFpTU4mvGyXht/Transcend?type=design&node-id=0%3A1&t=elK6GGMaiNQagWjv-1)
+
+
 ## Download the pdf
 
 [Transcend Deck](transcend-sales-compressed.pdf)
