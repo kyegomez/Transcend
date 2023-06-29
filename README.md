@@ -21,9 +21,6 @@ With our real-time figma link you can drop comments, feedback, and sort of quest
 
 [Transcend Deck](transcend-compressed_1.pdf)
 
-#Method 3
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F4JwJW9PkEbFpTU4mvGyXht%2FTranscend%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D33-56%26viewport%3D-17%252C-453%252C0.09%26t%3DQY0HOJEPpN1QwRgz-1%26scaling%3Dscale-down-width%26mode%3Ddesign" allowfullscreen></iframe>
-
 ## Contact:
 
 Contact `kye@apac.ai` for further questions or inquiries
